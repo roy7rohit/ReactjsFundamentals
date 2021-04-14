@@ -1,0 +1,10 @@
+.primary{
+  color : red;
+  padding-top: 10px;
+  border: 20px;
+  background-color: aquamarine;
+}
+
+.font-xl{
+  font-size: 70px;
+}
